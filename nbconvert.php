@@ -2,9 +2,9 @@
    /*
    Plugin Name: NbConvert
    Description: A plugin to add ipynb files to a blog post or page using nbviewer
-   Version: 1.0
-   Author: Andrew Challis
-   Author URI: http://www.andrewchallis.com
+   Version: 1.1
+   Author: L Feltrin
+   
    License: MIT
    */
 
