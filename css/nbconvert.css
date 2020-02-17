@@ -18,7 +18,7 @@ div.notebook label.github-last-update {
 
 div.notebook div.nbconvert-labels label.github-link a,
 div.notebook div.nbconvert-labels label.github-link a:focus {
-  color:#fff;
+  color:#ffffff;
   -webkit-box-shadow:none;
   box-shadow:none;
 }
@@ -59,7 +59,7 @@ div.notebook div.nbconvert div.output_stdout pre {
 
 div.notebook div.nbconvert div.output_stderr pre
  {
-  background: #fdd;
+  background: #ffffff;
   margin:0;
   max-height:300px;
 }
@@ -83,7 +83,7 @@ div.notebook div.nbconvert .dataframe tbody tr th {
 
 div.notebook div.nbconvert .rendered_html tbody tr:nth-child(odd),
 div.notebook div.nbconvert .rendered_html tbody tr:nth-child(odd) td {
-    background: #f5f5f5;
+    background: #eb2323;
 }
 
 div.notebook div.nbconvert .rendered_html tr, 
