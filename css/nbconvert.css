@@ -5,7 +5,7 @@
 div.notebook {
     position: relative;
     font-size: 0.75em;
-    border: 30px dashed;
+    border: 5px;
     padding: 10px;
     margin-bottom:15px
 }
